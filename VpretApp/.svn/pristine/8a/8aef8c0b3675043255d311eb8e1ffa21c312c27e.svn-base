@@ -1,0 +1,6 @@
+[DEBUG] 2018-01-11 17:35:23,030 ReportLoan - testView()
+[DEBUG] 2018-01-11 17:37:14,326 ReportLoan - testView()
+[DEBUG] 2018-01-11 17:37:56,569 ReportLoan - testView()
+[DEBUG] 2018-01-11 17:38:47,646 ReportLoan - testView()
+[DEBUG] 2018-01-11 17:38:47,896 ReportLoan - getStaticMember()
+[DEBUG] 2018-01-11 17:38:49,098 ReportLoan - sendReportByMail()
